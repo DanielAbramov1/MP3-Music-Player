@@ -1,0 +1,15 @@
+﻿  AvodaMid.c
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectMid\AvodaMid.c(37,23): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectMid\AvodaMid.c(69,30): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectMid\AvodaMid.c(146,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectMid\AvodaMid.c(223,6): warning C4101: 'i': unreferenced local variable
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectMid\AvodaMid.c(253,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectMid\AvodaMid.c(299,14): warning C4013: 'tolower' undefined; assuming extern returning int
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectMid\AvodaMid.c(463,27): warning C4133: 'function': incompatible types - from 'char [13]' to 'FILE *'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectMid\AvodaMid.c(464,44): warning C4133: 'function': incompatible types - from 'char [13]' to 'FILE *'
+  Generating code
+  0 of 20 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ProjectMid.vcxproj -> C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectMid\Release\ProjectMid.exe

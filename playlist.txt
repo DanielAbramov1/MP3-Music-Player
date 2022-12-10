@@ -1,0 +1,9 @@
+ID    ArtistName                     AlbumName                      TrackNo   TrackName                     
+123   123                            123                            123       123                           
+546   Francesca Michielin            2640                           5         Tropicale                     
+135   Borns                          Blue Madonna                   11        Blue Madonna                  
+555   Daniel Abramov                 Life Is Hard                   1         No Pain No Gain               
+687   Corrosion of Conformity        No Cross No Crown              12        E.L.M.                        
+876   Black Veil Brides              Vale                           3         Wake Up                       
+2     Joe Satriani                   What Happens Next              7         Headrush                      
+543   Black Rebel Motorcycle Club    Wrong Creatures                5         Echo                          

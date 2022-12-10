@@ -1,0 +1,290 @@
+WELCOME TO DANIEL'S MP3!!
+Before we start here is the song that we already have :
+
+ID   ArtistName                    AlbumName                     TrackNo  TrackName                     
+132  Avatar                        Avatar Country                7        A Statue of the King          
+543  Black Rebel Motorcycle Club   Wrong Creatures               5        Echo                          
+876  Black Veil Brides             Vale                          3        Wake Up                       
+135  Borns                         Blue Madonna                  11       Blue Madonna                  
+86   Camila Cabello                Camila                        16       Havana                        
+687  Corrosion of Conformity       No Cross No Crown             12       E.L.M.                        
+546  Francesca Michielin           2640                          5        Tropicale                     
+2    Joe Satriani                  What Happens Next             7        Headrush                      
+
+Please choose an activity for the MP3 player.
+(1) - Play Current song
+(2) - Play next song
+(3) - Play prev song
+(4) - Search for song
+(5) - Delete song
+(6) - Insert Song
+(7) - Sorting the playlist
+(8) - Save and exit
+1
+Current song is :132  Avatar                        Avatar Country                7         A Statue of the King          
+
+Please choose an activity for the MP3 player.
+(1) - Play Current song
+(2) - Play next song
+(3) - Play prev song
+(4) - Search for song
+(5) - Delete song
+(6) - Insert Song
+(7) - Sorting the playlist
+(8) - Save and exit
+2
+Next song is :543  Black Rebel Motorcycle Club   Wrong Creatures               5         Echo                          
+
+Please choose an activity for the MP3 player.
+(1) - Play Current song
+(2) - Play next song
+(3) - Play prev song
+(4) - Search for song
+(5) - Delete song
+(6) - Insert Song
+(7) - Sorting the playlist
+(8) - Save and exit
+2
+Next song is :876  Black Veil Brides             Vale                          3         Wake Up                       
+
+Please choose an activity for the MP3 player.
+(1) - Play Current song
+(2) - Play next song
+(3) - Play prev song
+(4) - Search for song
+(5) - Delete song
+(6) - Insert Song
+(7) - Sorting the playlist
+(8) - Save and exit
+3
+Previous song is :543  Black Rebel Motorcycle Club   Wrong Creatures               5         Echo                          
+
+Please choose an activity for the MP3 player.
+(1) - Play Current song
+(2) - Play next song
+(3) - Play prev song
+(4) - Search for song
+(5) - Delete song
+(6) - Insert Song
+(7) - Sorting the playlist
+(8) - Save and exit
+3
+Previous song is :132  Avatar                        Avatar Country                7         A Statue of the King          
+
+Please choose an activity for the MP3 player.
+(1) - Play Current song
+(2) - Play next song
+(3) - Play prev song
+(4) - Search for song
+(5) - Delete song
+(6) - Insert Song
+(7) - Sorting the playlist
+(8) - Save and exit
+3
+Previous song is :2    Joe Satriani                  What Happens Next             7         Headrush                      
+
+Please choose an activity for the MP3 player.
+(1) - Play Current song
+(2) - Play next song
+(3) - Play prev song
+(4) - Search for song
+(5) - Delete song
+(6) - Insert Song
+(7) - Sorting the playlist
+(8) - Save and exit
+4
+Please choose the search option:
+(1) - Artist Name
+(2) - Track Name
+(3) - Album name
+1
+Please enter Artist name:
+Avatar                        
+Search resaults are:
+132  Avatar                        Avatar Country                A Statue of the King          7        
+
+Please choose an activity for the MP3 player.
+(1) - Play Current song
+(2) - Play next song
+(3) - Play prev song
+(4) - Search for song
+(5) - Delete song
+(6) - Insert Song
+(7) - Sorting the playlist
+(8) - Save and exit
+4
+Please choose the search option:
+(1) - Artist Name
+(2) - Track Name
+(3) - Album name
+2
+Please enter Track name:
+Echo                          
+Search resaults are:
+543  Black Rebel Motorcycle Club   Wrong Creatures               Echo                          5        
+
+Please choose an activity for the MP3 player.
+(1) - Play Current song
+(2) - Play next song
+(3) - Play prev song
+(4) - Search for song
+(5) - Delete song
+(6) - Insert Song
+(7) - Sorting the playlist
+(8) - Save and exit
+4
+Please choose the search option:
+(1) - Artist Name
+(2) - Track Name
+(3) - Album name
+3
+Please enter Album name:
+Camila                        
+Search resaults are:
+86   Camila Cabello                Camila                        Havana                        16       
+
+Please choose an activity for the MP3 player.
+(1) - Play Current song
+(2) - Play next song
+(3) - Play prev song
+(4) - Search for song
+(5) - Delete song
+(6) - Insert Song
+(7) - Sorting the playlist
+(8) - Save and exit
+5
+You selected to delete a song fron the playlist
+Please enter the ID of the song you want to delete:
+86   
+Please choose an activity for the MP3 player.
+(1) - Play Current song
+(2) - Play next song
+(3) - Play prev song
+(4) - Search for song
+(5) - Delete song
+(6) - Insert Song
+(7) - Sorting the playlist
+(8) - Save and exit
+5
+You selected to delete a song fron the playlist
+Please enter the ID of the song you want to delete:
+132  
+Please choose an activity for the MP3 player.
+(1) - Play Current song
+(2) - Play next song
+(3) - Play prev song
+(4) - Search for song
+(5) - Delete song
+(6) - Insert Song
+(7) - Sorting the playlist
+(8) - Save and exit
+6
+You selected to insert a song to the play list
+Please enter the next fields:
+Please enter the ID:
+123  
+Please enter the Artist Name:
+123                           
+Please enter the Album Name:
+123                           
+Please enter the Track Number:
+123      
+Please enter the Track Name:
+123                           
+
+Please choose an activity for the MP3 player.
+(1) - Play Current song
+(2) - Play next song
+(3) - Play prev song
+(4) - Search for song
+(5) - Delete song
+(6) - Insert Song
+(7) - Sorting the playlist
+(8) - Save and exit
+6
+You selected to insert a song to the play list
+Please enter the next fields:
+Please enter the ID:
+555  
+Please enter the Artist Name:
+Daniel Abramov                
+Please enter the Album Name:
+Life Is Hard                  
+Please enter the Track Number:
+1        
+Please enter the Track Name:
+No Pain No Gain               
+
+Please choose an activity for the MP3 player.
+(1) - Play Current song
+(2) - Play next song
+(3) - Play prev song
+(4) - Search for song
+(5) - Delete song
+(6) - Insert Song
+(7) - Sorting the playlist
+(8) - Save and exit
+7
+Please choose the sort option:
+(1) - Artist Name
+(2) - Track Name
+(3) - Album name
+1
+
+Please choose an activity for the MP3 player.
+(1) - Play Current song
+(2) - Play next song
+(3) - Play prev song
+(4) - Search for song
+(5) - Delete song
+(6) - Insert Song
+(7) - Sorting the playlist
+(8) - Save and exit
+7
+Please choose the sort option:
+(1) - Artist Name
+(2) - Track Name
+(3) - Album name
+2
+
+Please choose an activity for the MP3 player.
+(1) - Play Current song
+(2) - Play next song
+(3) - Play prev song
+(4) - Search for song
+(5) - Delete song
+(6) - Insert Song
+(7) - Sorting the playlist
+(8) - Save and exit
+7
+Please choose the sort option:
+(1) - Artist Name
+(2) - Track Name
+(3) - Album name
+3
+
+Please choose an activity for the MP3 player.
+(1) - Play Current song
+(2) - Play next song
+(3) - Play prev song
+(4) - Search for song
+(5) - Delete song
+(6) - Insert Song
+(7) - Sorting the playlist
+(8) - Save and exit
+8
+
+This is the updated playlist:
+ID   ArtistName                    AlbumName                     TrackNo  TrackName                     
+123  123                           123                           123      123                           
+546  Francesca Michielin           2640                          5        Tropicale                     
+135  Borns                         Blue Madonna                  11       Blue Madonna                  
+555  Daniel Abramov                Life Is Hard                  1        No Pain No Gain               
+687  Corrosion of Conformity       No Cross No Crown             12       E.L.M.                        
+876  Black Veil Brides             Vale                          3        Wake Up                       
+2    Joe Satriani                  What Happens Next             7        Headrush                      
+543  Black Rebel Motorcycle Club   Wrong Creatures               5        Echo                          
+
+You choose save and exit.
+Come again soon!
+

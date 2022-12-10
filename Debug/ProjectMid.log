@@ -1,0 +1,10 @@
+﻿  AvodaMid.c
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectMid\AvodaMid.c(37,23): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectMid\AvodaMid.c(69,30): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectMid\AvodaMid.c(150,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectMid\AvodaMid.c(227,6): warning C4101: 'i': unreferenced local variable
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectMid\AvodaMid.c(257,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectMid\AvodaMid.c(303,14): warning C4013: 'tolower' undefined; assuming extern returning int
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectMid\AvodaMid.c(467,27): warning C4133: 'function': incompatible types - from 'char [13]' to 'FILE *'
+C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectMid\AvodaMid.c(468,44): warning C4133: 'function': incompatible types - from 'char [13]' to 'FILE *'
+  ProjectMid.vcxproj -> C:\Users\Vieyt\Desktop\Daniel\מעבדה מתקדמת לתכנות\ProjectMid\Debug\ProjectMid.exe
